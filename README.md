@@ -109,4 +109,14 @@ TL: xxx TR: xxx BL: xxx BR: xxx | H: xxx V: xxx
 - Weather adaptive tracking
 
 ---
+
+## 👤 Author
+
+Varun Hirani
+Electrical Engineering, IIT Goa
+📧 [hirani.varun@gmail.com](mailto:hirani.varun@gmail.com)
+
+Kamal Assudani
+Electrical Engineering, IIT Goa
+📧 [kamal.assudani.23063@iitgoa.ac.in](mailto:kamal.assudani.23063@iitgoa.ac.in)
 Video Explanation: https://drive.google.com/file/d/1VbPddzRcvomQ4Aejy4I2NYxipBqz4J3B/view?usp=sharing
